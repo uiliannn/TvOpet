@@ -1,0 +1,25 @@
+[25-Nov-2016 22:27:34 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'apkma792_tvopet'@'localhost' (using password: YES) in /home/apkma792/public_html/monstrlab/tvopet/conexao.php on line 7
+[25-Nov-2016 22:27:34 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/apkma792/public_html/monstrlab/tvopet/tela.php on line 51
+[25-Nov-2016 22:27:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/apkma792/public_html/monstrlab/tvopet/tela.php on line 52
+[25-Nov-2016 22:27:34 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/apkma792/public_html/monstrlab/tvopet/tela.php on line 96
+[25-Nov-2016 22:27:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/apkma792/public_html/monstrlab/tvopet/tela.php on line 97
+[06-Mar-2017 09:35:43 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'apkma792_tvopet'@'localhost' (using password: YES) in /home/apkma792/public_html/monstrlab/tvopet/conexao.php on line 7
+[06-Mar-2017 09:35:43 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/apkma792/public_html/monstrlab/tvopet/tela.php on line 51
+[06-Mar-2017 09:35:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/apkma792/public_html/monstrlab/tvopet/tela.php on line 52
+[06-Mar-2017 09:35:43 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/apkma792/public_html/monstrlab/tvopet/tela.php on line 96
+[06-Mar-2017 09:35:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/apkma792/public_html/monstrlab/tvopet/tela.php on line 97
+[06-Mar-2017 09:37:28 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'apkma792_tvopet'@'localhost' (using password: YES) in /home/apkma792/public_html/monstrlab/tvopet/conexao.php on line 7
+[06-Mar-2017 09:37:28 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/apkma792/public_html/monstrlab/tvopet/tela.php on line 51
+[06-Mar-2017 09:37:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/apkma792/public_html/monstrlab/tvopet/tela.php on line 52
+[06-Mar-2017 09:37:28 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/apkma792/public_html/monstrlab/tvopet/tela.php on line 96
+[06-Mar-2017 09:37:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/apkma792/public_html/monstrlab/tvopet/tela.php on line 97
+[06-Mar-2017 09:39:15 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'apkma792_tvopet'@'localhost' (using password: YES) in /home/apkma792/public_html/monstrlab/tvopet/conexao.php on line 7
+[06-Mar-2017 09:39:15 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/apkma792/public_html/monstrlab/tvopet/tela.php on line 51
+[06-Mar-2017 09:39:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/apkma792/public_html/monstrlab/tvopet/tela.php on line 52
+[06-Mar-2017 09:39:15 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/apkma792/public_html/monstrlab/tvopet/tela.php on line 96
+[06-Mar-2017 09:39:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/apkma792/public_html/monstrlab/tvopet/tela.php on line 97
+[06-Mar-2017 09:39:36 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'apkma792_tvopet'@'localhost' (using password: YES) in /home/apkma792/public_html/monstrlab/tvopet/conexao.php on line 7
+[06-Mar-2017 09:39:36 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/apkma792/public_html/monstrlab/tvopet/tela.php on line 51
+[06-Mar-2017 09:39:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/apkma792/public_html/monstrlab/tvopet/tela.php on line 52
+[06-Mar-2017 09:39:36 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/apkma792/public_html/monstrlab/tvopet/tela.php on line 96
+[06-Mar-2017 09:39:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/apkma792/public_html/monstrlab/tvopet/tela.php on line 97

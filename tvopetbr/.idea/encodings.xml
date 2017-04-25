@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/tela_br.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/view/admin/add_user.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/view/admin/ativos.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/view/admin/configuracoes.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/view/admin/editar.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/view/admin/img_ativa.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/view/admin/painel.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/view/admin/processar_editar_admin.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/view/admin/upload.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/view/admin/visualizar.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/view/user/configuracoes_user.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/view/user/painel_user.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/view/user/upload_user.php" charset="UTF-8" />
+  </component>
+</project>
